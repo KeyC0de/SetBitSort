@@ -1,4 +1,4 @@
-; Author: Nikos Lazaridis (Nik-Lz @GitHub)
+; Author: Nikos Lazaridis (KeyC0de @GitHub)
 ; Date:   April, 2017
 ;
 ; EDUMIPS64 Assembly program
